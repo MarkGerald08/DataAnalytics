@@ -1,2 +1,2 @@
 # DataAnalytics
-This repository contains Excel, PowerQuery, PivotTables and BI.
+This repository contains Excel, PowerQuery, PivotTables, SQL and BI.
